@@ -16,7 +16,7 @@ Kitabı bitirəndə "haker" olmayacaqsan, amma internetin arxasında nə baş ve
 
 | # | Bölüm | Mövzu | Status |
 |---|-------|-------|--------|
-| 0 | [Giriş](./Bolum0_Giris.pdf) | Kiber təhlükəsizlik nədir, sahələr (SOC, Pentest, Forensics, Cloud Security, Threat Intelligence, Malware Analyst), karyera və maaşlar | ✅ Hazırdır |
+| 0 | [Giriş](https://github.com/2aadd/cyberbaslanqic/blob/main/CyberBaslan%C4%9F%C4%B1c_Bolum0.pdf) | Kiber təhlükəsizlik nədir, sahələr (SOC, Pentest, Forensics, Cloud Security, Threat Intelligence, Malware Analyst), karyera və maaşlar | ✅ Hazırdır |
 | 1 | [Networking Əsasları](./Bolum1_Networking.pdf) | IP ünvan, DNS, OSI modeli, TCP/UDP, portlar — internetin arxasında nə baş verir | ✅ Hazırdır |
 
 Hər bölüm özündən əvvəlkinin üzərində qurulur — ona görə ardıcıl oxumaq tövsiyə olunur.
